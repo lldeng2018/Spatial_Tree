@@ -1,2 +1,2 @@
 # Spatial_Tree
-Implementation of a map using search trees to locate an earthquake.
+Java implementation of a map using search trees to locate an earthquake.
